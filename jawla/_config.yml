@@ -1,0 +1,12 @@
+title:
+description:
+logo:
+show_downloads: false
+google_analytics: G-NR01Z9GL3Y
+theme:
+
+permalink: /:slug/
+
+plugins:
+  - jekyll-redirect-from
+
