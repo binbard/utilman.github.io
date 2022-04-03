@@ -1,3 +1,5 @@
 ---
-redirect_to: https://firebuzz.app/?roomId=612831
+redirect_to: https://raw.githubusercontent.com/jtstatic/web/main/index.html
 ---
+
+<!-- https://firebuzz.app/?roomId=612831 -->
